@@ -1,0 +1,21 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "IT Ticketing System Coursework_7fe429e4",
+            "vmArgs": "--module-path \"C:/Users/mattb/OneDrive/Desktop/Coding/JavaFX/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+
+        }
+    ]
+}
